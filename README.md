@@ -1,6 +1,7 @@
 # SparkCore-Api-via-MaxMsp
 
 simple method to get your awesome internet sensor in to Maxmsp
+using a Sparkcore Api V1 
 
 /*Sparkcore-bug Code */
 
